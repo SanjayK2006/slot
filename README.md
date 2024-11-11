@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - 212223040037 DHARMALINGAM S</title>
+    <title>SLOT TIME TABLE - 212223220094 SANJAY K</title>
     <style>
         table {
             border-collapse: collapse;
@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="saveetha.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - DHARMALINGAM S 212223040037</strong></p>
+        <p><strong>SLOT TIME TABLE - SANJAY K 212223220094</strong></p>
     </div>
     <table>
         <tr>
@@ -77,16 +77,16 @@ Execute the program using runserver command.
         <tr>
             <th colspan="1" bgcolor="Yellow">8-10</th>
             <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
+            <th colspan="1" bgcolor="Cyan">TOC</th>
+            <th colspan="1" bgcolor="Cyan">CD</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">10-12</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
+            <th colspan="1" bgcolor="Cyan">CN</th>
             <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
             <th colspan="1" bgcolor="Cyan">FWAD</th>
             <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
+            <th colspan="1" bgcolor="Cyan">TOC</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">12-1</th>
@@ -97,14 +97,14 @@ Execute the program using runserver command.
             <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
             <th colspan="1" bgcolor="Cyan">MAT</th>
             <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">SS</th>
+            <th colspan="1" bgcolor="Cyan">QA</th>
         </tr>
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">3-5</th>
             <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
+            <th colspan="1" bgcolor="Cyan">CN</th>
+            <th colspan="1" bgcolor="Cyan">CD</th>
             <th colspan="1" bgcolor="Cyan">FWAD</th>
         </tr>
     </table>
@@ -122,28 +122,28 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">2.</th>
-            <th colspan="1" bgcolor="White">19EN612</th>
-            <th colspan="2" bgcolor="White">German Basic (GER)</th>        
+            <th colspan="1" bgcolor="White">19CS406</th>
+            <th colspan="2" bgcolor="White">Computer Network (CN)</th>        
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">3.</th>
-            <th colspan="1" bgcolor="White">19PH206</th>
-            <th colspan="2" bgcolor="White">Physics for Information Technology (PHY)</th> 
+            <th colspan="1" bgcolor="White">19CS407</th>
+            <th colspan="2" bgcolor="White">Theory of Computation (TOC)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">4.</th>
-            <th colspan="1" bgcolor="White">19CY205</th>
-            <th colspan="2" bgcolor="White">Principles of Chemistry in Engineering (CHE)</th> 
+            <th colspan="1" bgcolor="White">19CS409</th>
+            <th colspan="2" bgcolor="White">Compiler Design (CD)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">5.</th>
-            <th colspan="1" bgcolor="White">19MA201</th>
-            <th colspan="2" bgcolor="White">Calculus and Matrix Algebra (MAT)</th> 
+            <th colspan="1" bgcolor="White">19MA222</th>
+            <th colspan="2" bgcolor="White">Probability And Queueing Models (MAT)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">6.</th>
-            <th colspan="1" bgcolor="White">19EY701</th>
-            <th colspan="2" bgcolor="White">Soft Skills (SS)</th> 
+            <th colspan="1" bgcolor="White">19EY710</th>
+            <th colspan="2" bgcolor="White">Quantitative Ability (QA)</th> 
         </tr>
     </table>
 </body>
@@ -151,7 +151,7 @@ Execute the program using runserver command.
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/6f5fa3f4-c3eb-44fd-9497-02c8bc13a6ca)
+![Screenshot (73)](https://github.com/user-attachments/assets/8f35921f-168b-4699-be80-411f07501410)
 
 ## RESULT
 
