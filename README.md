@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - SRIRAM V (23013561)</title>
+    <title>SLOT TIME TABLE - 212223040037 DHARMALINGAM S</title>
     <style>
         table {
             border-collapse: collapse;
@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="saveetha.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - SRIRAM V (23013561)</strong></p>
+        <p><strong>SLOT TIME TABLE - DHARMALINGAM S 212223040037</strong></p>
     </div>
     <table>
         <tr>
@@ -150,8 +150,6 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-
-![Screenshot 2024-09-14 213052](https://github.com/user-attachments/assets/6a93d28d-72a4-4ac2-bdd2-37207d3fc946)
 
 ![image](https://github.com/user-attachments/assets/6f5fa3f4-c3eb-44fd-9497-02c8bc13a6ca)
 
